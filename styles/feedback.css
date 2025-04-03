@@ -1,0 +1,42 @@
+.feedBack{
+
+    background: var(--vermelhoDestaque);
+    text-align: center;
+    width: 80%;
+    margin:0 auto;
+    padding: 2.5rem;
+}
+.feedBack__Chamada{
+
+    font-size: 0.87rem;
+    font-weight: 600;
+    color: var(--vermelhoBase);
+}
+.feedBack>h2{
+
+    font-size: 2rem;
+    font-weight: 500;
+    padding: 1rem 0;
+    width: 60%;
+    margin: 0 auto;
+}
+.avatar{
+
+    width: 4.5rem;
+    height: 4.5rem;
+    border-radius: 100% ;
+    padding: 2rem 0;
+}
+
+.feedBack__Nome{
+
+    color: var(--pretoBase);
+    font-size: 1rem;
+    font-weight: 500;
+}
+.feedBack__Cargo{
+
+    color: var(--cinzaBase);
+    font-size: 0.87rem;
+    font-weight: 400;
+}

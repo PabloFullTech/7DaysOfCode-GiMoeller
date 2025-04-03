@@ -1,0 +1,28 @@
+.Sobre{
+
+    text-align: center;
+    justify-items: center;
+    padding: 3rem;
+    margin: 3rem;
+}
+.Sobre>h3{
+
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--vermelhoBase);
+    padding: 1rem;
+}
+.Sobre>h1{
+
+    font-size: 3rem;
+    font-weight: 600;
+    padding: 1rem;
+}
+.Sobre>p{
+
+    font-size: 1.25rem;
+    font-weight: 400;
+    color: var(--cinzaBase);
+    padding: 3rem;
+    width: 50%;
+}

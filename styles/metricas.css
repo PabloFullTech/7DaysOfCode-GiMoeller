@@ -1,0 +1,30 @@
+.Metricas{
+
+    margin: 5rem;
+}
+.Metricas__list{
+
+    display: flex;
+}
+.Metricas__list-item{
+    
+    list-style: none;
+
+}
+.Metricas__list-item>h2{
+
+    font-size: 3.75rem;
+    font-weight: 600;
+    color: var(--vermelhoBase);
+}
+.Metricas__list-item>h3{
+
+    font-size: 1.12rem;
+    font-weight: 500;
+}
+.Metricas__list-item>p{
+
+    font-size: 1rem;
+    font-weight: 400;
+    color: var(--cinzaBase);
+}

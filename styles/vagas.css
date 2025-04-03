@@ -1,0 +1,76 @@
+.vagas{
+
+    text-align: center;
+}
+.vagas>h4{
+
+    background: var(--vermelhoDestaque);
+    color: var(--vermelhoBase);
+    font-size: 0.87rem;
+    font-weight: 500;
+    display: inline-block;
+    padding: 0.3rem 0.5rem;
+    border-radius: 1rem;
+    margin: 1rem 0;
+}
+.vagas>h2{
+
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+.vagas>p{
+
+    font-size: 1.25;
+    font-weight: 400;
+    color: var(--cinzaBase);
+    margin: 1rem 0;
+}
+.vagasImagem{
+
+    margin: 1rem 0;
+}
+.vagas__Abertas{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.card{
+
+    text-align: left;
+    width: 50%;
+    margin-bottom: 3rem;
+}
+
+.card>h3{
+
+    padding: 1rem 0;
+    font-size: 1.25rem;
+    font-weight: 500;
+
+}
+.card__vaga{
+
+    border: 0.1rem solid var(--borderBase);
+    border-radius: 0.5rem;
+    padding: 1rem;
+    margin: 1rem 0;
+}
+.card__vaga>h3{
+
+    font-size: 1.12rem;
+    font-weight: 500;
+}
+.card__vaga-list{
+
+    list-style: none;
+    display: flex;
+    padding: 1.5rem 0 0 0;
+}
+.vaga-list-item{
+
+    color: var(--cinzaBase);
+    margin-right: 1rem;
+}

@@ -1,0 +1,46 @@
+.Acompanhe{
+
+    background: var(--cinzaDois);
+    margin-top: 10rem;
+    text-align: center;
+    padding: 5rem 0;
+}
+.Acompanhe__Titulo{
+    padding: 2.5rem 0 1rem 0;
+    font-size: 2rem;
+    font-weight: 600;
+}
+.Acompanhe__paragrafo{
+
+   color: var(--cinzaBase);
+   font-size: 1.25rem;
+   font-weight: 400;
+}
+.Acompanhe__Email{
+
+    padding: 0.5rem;
+    border: 0.1rem solid var(--cinzaBase) ;
+    border-radius: 0.5rem;
+    width: 15%;
+    margin: 1rem 0;
+}
+.Acompanhe__Email::placeholder{
+
+    font-size: 0.8rem;
+    background: var(--brancoBase);
+    color: var(--cinzaBase);
+}
+.Acompanhe__Cadastrar{
+
+    background: var(--vermelhoBase);
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem; ;
+    color: var(--brancoBase);
+    text-decoration: none;
+}
+.Direitos{
+
+    font-size: 1rem;
+    font-weight: 400;
+    color: var(--cinzaBase);
+}
